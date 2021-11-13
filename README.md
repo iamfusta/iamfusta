@@ -4,5 +4,7 @@
 - 💞️ I’m looking to collaborate on location based authentication and rf communication
 - 📫 Reach me;
       https://www.instagram.com/iamfusta/
+      
       https://www.linkedin.com/in/furkan-usta/
+      
       fusta64@gmail.com
